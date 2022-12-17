@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ reading URL from property file]]>
+    </line>
+    <line>
+      <![CDATA[lanching browswer]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signin option]]>
+    </line>
+    <line>
+      <![CDATA[ reading Mobilenumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number ]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signinbutton]]>
+    </line>
+    <line>
+      <![CDATA[ reading Passward from property file]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[Handling popups]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Ok button of popup]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button of popup]]>
+    </line>
+    <line>
+      <![CDATA[getting  actual username]]>
+    </line>
+    <line>
+      <![CDATA[actual username is Hi Pratiksha Onkar]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[ reading Username from property file]]>
+    </line>
+    <line>
+      <![CDATA[logging out]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signin option]]>
+    </line>
+    <line>
+      <![CDATA[ reading Mobilenumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number ]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signinbutton]]>
+    </line>
+    <line>
+      <![CDATA[ reading Passward from property file]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[no popup found, good to go further]]>
+    </line>
+    <line>
+      <![CDATA[getting available balance]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[logging out]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signin option]]>
+    </line>
+    <line>
+      <![CDATA[ reading Mobilenumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number ]]>
+    </line>
+    <line>
+      <![CDATA[clicking on signinbutton]]>
+    </line>
+    <line>
+      <![CDATA[ reading Passward from property file]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[no popup found, good to go further]]>
+    </line>
+    <line>
+      <![CDATA[clicking on report]]>
+    </line>
+    <line>
+      <![CDATA[clicking on dashboard]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[available RealizedProfit/ Loss is 0.00]]>
+    </line>
+    <line>
+      <![CDATA[logging out]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-16T18:10:53 IST" name="Default suite" finished-at="2022-12-16T18:11:27 IST" duration-ms="33980">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T18:10:53 IST" name="Default test" finished-at="2022-12-16T18:11:27 IST" duration-ms="33980">
+      <class name="neoStoxTest.NewTest2ReadingfromPropertyfile2">
+        <test-method is-config="true" signature="launchNeo()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:10:53 IST" name="launchNeo" finished-at="2022-12-16T18:11:00 IST" duration-ms="6411" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ reading URL from property file]]>
+            </line>
+            <line>
+              <![CDATA[lanching browswer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeo -->
+        <test-method is-config="true" signature="logintoNeo()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:00 IST" name="logintoNeo" finished-at="2022-12-16T18:11:07 IST" duration-ms="7734" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on signin option]]>
+            </line>
+            <line>
+              <![CDATA[ reading Mobilenumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile number ]]>
+            </line>
+            <line>
+              <![CDATA[clicking on signinbutton]]>
+            </line>
+            <line>
+              <![CDATA[ reading Passward from property file]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[Handling popups]]>
+            </line>
+            <line>
+              <![CDATA[clicking on Ok button of popup]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button of popup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeo -->
+        <test-method signature="validateUsername()[pri:-1, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:07 IST" name="validateUsername" finished-at="2022-12-16T18:11:08 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting  actual username]]>
+            </line>
+            <line>
+              <![CDATA[actual username is Hi Pratiksha Onkar]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot]]>
+            </line>
+            <line>
+              <![CDATA[ reading Username from property file]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUsername -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:08 IST" name="logout" finished-at="2022-12-16T18:11:09 IST" duration-ms="1297" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logintoNeo()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:09 IST" name="logintoNeo" finished-at="2022-12-16T18:11:16 IST" duration-ms="6657" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on signin option]]>
+            </line>
+            <line>
+              <![CDATA[ reading Mobilenumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile number ]]>
+            </line>
+            <line>
+              <![CDATA[clicking on signinbutton]]>
+            </line>
+            <line>
+              <![CDATA[ reading Passward from property file]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[no popup found, good to go further]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeo -->
+        <test-method signature="checkavailableBalance()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:16 IST" name="checkavailableBalance" finished-at="2022-12-16T18:11:17 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting available balance]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkavailableBalance -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:17 IST" name="logout" finished-at="2022-12-16T18:11:18 IST" duration-ms="1329" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logintoNeo()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:18 IST" name="logintoNeo" finished-at="2022-12-16T18:11:25 IST" duration-ms="6640" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on signin option]]>
+            </line>
+            <line>
+              <![CDATA[ reading Mobilenumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile number ]]>
+            </line>
+            <line>
+              <![CDATA[clicking on signinbutton]]>
+            </line>
+            <line>
+              <![CDATA[ reading Passward from property file]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[no popup found, good to go further]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeo -->
+        <test-method signature="releasedfunds()[pri:1, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:25 IST" name="releasedfunds" finished-at="2022-12-16T18:11:26 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on report]]>
+            </line>
+            <line>
+              <![CDATA[clicking on dashboard]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot]]>
+            </line>
+            <line>
+              <![CDATA[available RealizedProfit/ Loss is 0.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- releasedfunds -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:26 IST" name="logout" finished-at="2022-12-16T18:11:27 IST" duration-ms="1271" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:neoStoxTest.NewTest2ReadingfromPropertyfile2@5ffead27]" started-at="2022-12-16T18:11:27 IST" name="close" finished-at="2022-12-16T18:11:27 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- neoStoxTest.NewTest2ReadingfromPropertyfile2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -23,6 +23,7 @@ import neoStoxUtility.UtilityProperty;
 
 public class NewTest2ReadingfromPropertyfile2 extends Base1
 {
+	
 
 	SiGnINPage signin1;
 	 LoginPageusingExcel login;
@@ -42,8 +43,8 @@ public void launchNeo() throws InterruptedException, IOException
      pop=new PopUPHandlingNEoUsingExcelPom2(driver);
      Home1 = new  HomepagePomUsingExcel2(driver);
      Dashboard=new DashboardPOMExcel2(driver);
-		
-}
+	
+  }
  @BeforeMethod
  public void logintoNeo() throws EncryptedDocumentException, IOException, InterruptedException
  {
